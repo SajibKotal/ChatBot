@@ -1,0 +1,10 @@
+venv
+flaskapp.py
+README.md
+requirements.txt
+static/style.css
+static/live_style.css
+static/images/eon.png
+Logo
+templates/chat.html
+templates/live_chat.html
